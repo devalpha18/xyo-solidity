@@ -21,10 +21,6 @@ core smart contract to the local node as follows:
 
 You can also run the simple unit tests over the XY.sol file with `truffle test`
 
-## Authors
-
-See the list of [contributors](https://github.com/XYOracleNetwork/xyo-node/contributors) who participated in this project.
-
 ## License
 
 The xyo-node library (i.e. all code outside of the `cmd` directory) is licensed under the
